@@ -1,18 +1,3 @@
-Got it 👍
-Below is a **fully updated, clear, professional README.md** that **explicitly explains**:
-
-* ✅ What *Job Description Analyzer* is
-* ✅ **Total jobs intake**
-* ✅ **Tech / Non-Tech / Others job count**
-* ✅ Dashboard visuals explanation (based on your screenshot)
-* ✅ Tools & technical stack
-* ✅ Future scope
-* ✅ Clean GitHub look (no confusion, recruiter-friendly)
-
-You can **directly copy-paste this into `README.md`**.
-
----
-
 # 🏢 Job Description Analyzer – Power BI Dashboard
 
 ## 📊 Project Overview
