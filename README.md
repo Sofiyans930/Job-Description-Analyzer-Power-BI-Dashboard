@@ -16,7 +16,7 @@ It is designed for **students, job seekers, HR teams, and data analysts**.
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](Screenshots/dashboard_overview.png)
+![Uploading dashboard_Screenshot.png…]()
 
 
 ---
